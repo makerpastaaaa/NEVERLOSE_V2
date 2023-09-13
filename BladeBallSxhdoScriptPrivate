@@ -33,7 +33,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
-local Auto Parry = Window:CreateTab("Auto Parry", 13014537525)
+local AutoParry = Window:CreateTab("Auto Parry", 13014537525)
 
 local function startAutoParry()
     local player = game.Players.LocalPlayer
